@@ -17,7 +17,7 @@ module.exports = Circle;
 
 class Shape {
   constructor() {
-    this.color = "red';
+    this.color = "red";
   }
   calculateArea() {}
   drawShape() {}
